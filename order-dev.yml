@@ -16,4 +16,4 @@ server:
 env: dev2
 girl:
   name: lili
-  age: 25
+  age: 20
